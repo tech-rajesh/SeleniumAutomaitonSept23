@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests"  thread-count="2" name="Suite">
+
+
+
+	<test name="ChromeTest">
+		<parameter name="orgBrowser" value="chrome"></parameter>
+		<classes>
+			<class name="crssoBrowserTesting.NOPLogin" />
+		</classes>
+	</test>
+
+
+
+	<test name="EdgeTest">
+		<parameter name="orgBrowser" value="edge"></parameter>
+		<classes>
+			<class name="crssoBrowserTesting.NOPLogin" />
+		</classes>
+	</test>
+
+
+
+	<!-- <test name="ChromeTest2">
+		<parameter name="orgBrowser" value="chrome"></parameter>
+		<classes>
+			<class name="crssoBrowserTesting.NOPLogin" />
+		</classes>
+	</test>
+
+
+
+	<test name="FirefoxTest">
+		<parameter name="orgBrowser" value="firefox"></parameter>
+		<classes>
+			<class name="crssoBrowserTesting.NOPLogin" />
+		</classes>
+	</test> -->
+
+
+
+</suite> <!-- Suite -->

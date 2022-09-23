@@ -1,0 +1,31 @@
+2022-09-15 14:36:31,471 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-15 14:36:32,579 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-15 14:36:32,782 [main] INFO Incedo_org_Module_Automation - username field cleared.
+2022-09-15 14:36:32,889 [main] INFO Incedo_org_Module_Automation - username entered - admin@yourstore.com
+2022-09-15 14:36:32,989 [main] INFO Incedo_org_Module_Automation - password field cleared.
+2022-09-15 14:36:33,059 [main] INFO Incedo_org_Module_Automation - password entred .
+2022-09-15 14:36:33,129 [main] INFO Incedo_org_Module_Automation - click on login button
+2022-09-15 14:36:37,717 [main] INFO Incedo_org_Module_Automation - click on logout.
+2022-09-15 14:36:39,300 [main] INFO Incedo_org_Module_Automation - validation of application tile : Your store. Login
+2022-09-15 14:36:47,484 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
+2022-09-16 12:54:52,651 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-16 12:54:53,604 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 12:54:59,619 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
+2022-09-16 13:13:10,492 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-16 13:13:11,235 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 13:13:23,922 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
+2022-09-16 13:15:50,923 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-16 13:15:51,801 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 13:16:13,321 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
+2022-09-16 13:17:34,954 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-16 13:17:42,824 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 13:18:04,490 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
+2022-09-16 13:29:27,865 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-16 13:29:29,775 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 13:29:40,139 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
+2022-09-16 13:30:34,423 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-16 13:30:35,313 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 13:30:48,115 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
+2022-09-16 13:32:17,745 [main] INFO Incedo_org_Module_Automation - Chrome Browser launched.
+2022-09-16 13:32:18,531 [main] INFO Incedo_org_Module_Automation - Application launched.https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+2022-09-16 13:32:39,445 [main] INFO Incedo_org_Module_Automation - Chrome Browser closed.
